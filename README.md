@@ -7,11 +7,3 @@ I’m an AI and data science engineer with a strong background in industrial eng
 🌱 **Currently Learning**: Advanced AI techniques such as Reinforcement Learning, Computer Vision, and multi-agent systems.
 
 📫 **How to reach me**: [m.sanamaghraoui@gmail.com](mailto:m.sanamaghraoui@gmail.com)
-
-🚀 **Projects**:
-- **Optimization of Drone Area Mapping**: Developed algorithms for autonomous drone navigation using bio-inspired algorithms and reinforcement learning for search and rescue missions.
-- **Pneumonia Detection Using CNN**: Built a convolutional neural network to accurately detect pneumonia using chest X-ray images.
-- **Banking Fraud Detection**: Created a high-performance fraud detection model using XGBoost with hyperparameter optimization and imbalance handling techniques.
-- **SWIFT-Autonomous Carrying Robot**: Designed a robot for tool transport in industrial environments, optimizing navigation and tool detection using A* and RRT algorithms.
-
-⚡ **Fun fact**: I enjoy reading psychological books and designing intuitive, user-centric AI solutions in my spare time.
